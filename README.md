@@ -1,6 +1,8 @@
 # NEWYO
 뉴스 키워드 픽업
 
-HY COMMIT TEST입니다.
+ㅇㅋ 제꺼
 
-Main_S
+HY: NM 수정했습니다
+
+다시 수정
